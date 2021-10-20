@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056607614545",
+    "firebase_url": "https://local-commerce.firebaseio.com",
+    "project_id": "local-commerce",
+    "storage_bucket": "local-commerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056607614545:android:3159ba0e65025eaaa96a70",
+        "android_client_info": {
+          "package_name": "br.com.jca.local_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056607614545-t8tb4f8ghhk08qbeiki812odii205vqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdWVCB2ftgjcY14mod7rqtD0YHMqu0524"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056607614545-t8tb4f8ghhk08qbeiki812odii205vqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
